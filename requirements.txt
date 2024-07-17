@@ -1,0 +1,4 @@
+pyPDF2
+google-generativeai
+streamlit
+json
